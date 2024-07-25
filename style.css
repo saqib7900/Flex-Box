@@ -1,0 +1,65 @@
+.container{
+   background-color: rgba(245,208,78,255);
+    
+    height: 110vh;
+   /* width: 180vh;*/
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.item{
+     background-color: rgb(255, 255, 255);
+     border: 1px solid black;
+     height: 300px;
+     width: 220px;
+     border-radius: 15px;
+}
+.item-img {
+   
+   height: 120px;
+   border-radius: 8px;
+   margin-top: 10px;
+   margin-left: 10px;
+   margin-right: 10px;
+   background-size: cover;
+   
+}
+.object-1{
+    background-image: url(img/design.jpg) ;
+}
+    
+.btn {
+    padding: 5px 10px;
+    margin-left: 15px;
+    background-color:rgba(245,208,78,255);
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px; 
+    text-align: center; 
+    align-self: center; 
+   font-family: Arial black;  
+    font-size: 12px; 
+}
+.item p {
+    
+    color: gray;
+    padding: 10x;
+    font-family: sans-serif;
+    margin-left: 15px;
+    font-size: 10px;
+    
+
+
+}
+.item h1{
+    font-size: medium;
+    margin-left: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: bold ;
+}
+
+
